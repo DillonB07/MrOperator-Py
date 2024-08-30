@@ -1,0 +1,2 @@
+LOG_CHANNEL = "C06T9MYV543"
+DATA_PATH = "data.json"
